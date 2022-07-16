@@ -2,73 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd1f3b60-1020-40c2-8466-4b522ae950ac" name="Changes" comment="atualização curso python">
-      <change afterPath="$PROJECT_DIR$/Mundo 1/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/.idea/CursoemVideo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/Aula 10 Condições.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/Aula 11 Cores no Terminal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/Aula9 Manipulando Texto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex000.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex004 mostra estatus da string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/ex013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/.idea/pythonteste.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/aula06a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/aula06b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/aula07a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/aula07b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/aula08a bibliotecas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/aula08a2 bibliotecas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/aula09 manipulando texto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 1/pythonteste/aula11 cores no terminal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CursoemVideo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 10 Condições.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 11 Cores no Terminal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula9 Manipulando Texto.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex000.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex002.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex003.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex004 mostra estatus da string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex005.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex006.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex007.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex008.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex009.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex010.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex011.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex012.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex013.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex036 emprestimo bancário.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex037 binario, oct e hexa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex038 maior menor igual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex039 idade militar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex040 media final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex041 categoria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex042 equilátero isósceles ou escaleno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex043 imc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex044 pagamento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex045 jokempo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,18 +36,23 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="271E4NzlsR34VursJGdvQRhTAAf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Users/Dyonathan/PycharmProjects/pythonteste"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dyonathan/PycharmProjects/CursoemVideo/Mundo 2/PythonExercicios&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Aula 10 Condições">
-    <configuration name="Aula 10 Condições" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.ex045 jokempo">
+    <configuration name="ex041 categoria" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 2/PythonExercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 10 Condições.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex041 categoria.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula9 Manipulando Texto (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex042 equilátero isósceles ou escaleno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 2/PythonExercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula9 Manipulando Texto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex042 equilátero isósceles ou escaleno.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula9 Manipulando Texto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex043 imc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 2/PythonExercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Dyonathan\PycharmProjects\CursoemVideo\Aula9 Manipulando Texto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex043 imc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex004 mostra estatus da string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex044 pagamento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 2/PythonExercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Dyonathan\PycharmProjects\CursoemVideo\ex004 mostra estatus da string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex044 pagamento.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex045 jokempo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 2/PythonExercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex013.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex045 jokempo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Aula 10 Condições" />
-        <item itemvalue="Python.ex004 mostra estatus da string" />
-        <item itemvalue="Python.Aula9 Manipulando Texto (1)" />
-        <item itemvalue="Python.Aula9 Manipulando Texto" />
-        <item itemvalue="Python.ex013" />
+        <item itemvalue="Python.ex045 jokempo" />
+        <item itemvalue="Python.ex044 pagamento" />
+        <item itemvalue="Python.ex043 imc" />
+        <item itemvalue="Python.ex042 equilátero isósceles ou escaleno" />
+        <item itemvalue="Python.ex041 categoria" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657651583257</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="atualização curso python">
+      <created>1657677613509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657677613509</updated>
+    </task>
+    <task id="LOCAL-00003" summary="atualização curso python">
+      <created>1657677672527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657677672527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
