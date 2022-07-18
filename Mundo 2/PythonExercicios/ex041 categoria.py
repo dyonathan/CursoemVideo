@@ -16,3 +16,7 @@ elif idade <= 20:
     print('Sênior')
 else:
     print('Master')
+
+# Guanabara fez igual
+
+

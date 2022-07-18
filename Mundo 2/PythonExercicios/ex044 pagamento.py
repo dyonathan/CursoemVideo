@@ -15,6 +15,10 @@ elif op == 2:
 elif op == 3:
     print('R$ {:.2f} em duas vezes fica, R$ {:.2f} cada parcela!'.format(preco, preco / 2))
 elif op == 4:
+    parc = int(input('Quantas parcelas? '))
+    print('Vai fica {}x de R$ {:.2f} !'.format(parc, preco * 1.2 / parc))
     print('R$ {:.2f} com o juros fica, R$ {:.2f} !'.format(preco, preco * 1.2))
 else:
     print('Opção invalida!')
+
+# Guanabara fez parecido

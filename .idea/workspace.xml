@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd1f3b60-1020-40c2-8466-4b522ae950ac" name="Changes" comment="atualização curso python">
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex036 emprestimo bancário.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex037 binario, oct e hexa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex038 maior menor igual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex039 idade militar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex040 media final.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex041 categoria.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex042 equilátero isósceles ou escaleno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex043 imc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex044 pagamento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex045 jokempo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex036 emprestimo bancário.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex036 emprestimo bancário.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex037 binario, oct e hexa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex037 binario, oct e hexa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex038 maior menor igual.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex038 maior menor igual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex039 idade militar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex039 idade militar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex040 media final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex040 media final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex041 categoria.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex041 categoria.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex042 equilátero isósceles ou escaleno.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex042 equilátero isósceles ou escaleno.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex043 imc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex043 imc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex044 pagamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex044 pagamento.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex045 jokempo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex045 jokempo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657677672527</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="atualização curso python">
+      <created>1657936044645</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657936044647</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
