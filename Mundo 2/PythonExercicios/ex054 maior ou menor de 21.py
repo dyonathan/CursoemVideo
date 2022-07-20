@@ -15,3 +15,5 @@ for c in range(0, 7):
         menor += 1
 
 print('São {} pessoas maiores de 21 anos e {} pessoas menores!'.format(maior, menor))
+
+# Guanabara fez igual
