@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd1f3b60-1020-40c2-8466-4b522ae950ac" name="Changes" comment="atualização curso python">
-      <change afterPath="$PROJECT_DIR$/Mundo 2/Aula 14 Estrutura de Reoetição While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex057 masculino ou feminino.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex058 tente adivinhar o número.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex059 ler dois valores e escolher no menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex060 fatorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex062 preção aritmetica 2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex063 sequencia de fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex064 ler n números qtd e soma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex065 ler n números, média, maior e menor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex057 masculino ou feminino.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex057 masculino ou feminino.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex060 fatorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex060 fatorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex061 10 primeiros termos de uma progreção aritimetica.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex061 10 primeiros termos de uma progreção aritimetica.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,28 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ex060 fatorial">
-    <configuration name="Aula 14 Estrutura de Reoetição While" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoemVideo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/Aula 14 Estrutura de Reoetição While.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex057 masculino ou feminino">
     <configuration name="ex057 masculino ou feminino" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex058 tente adivinhar o número" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex062 preção aritmetica 2.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex058 tente adivinhar o número.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex062 preção aritmetica 2.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex059 ler dois valores e escolher no menu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex063 sequencia de fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex059 ler dois valores e escolher no menu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex063 sequencia de fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex060 fatorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex064 ler n números qtd e soma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +124,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex060 fatorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex064 ler n números qtd e soma.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex065 ler n números, média, maior e menor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 2/PythonExercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex065 ler n números, média, maior e menor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex060 fatorial" />
-        <item itemvalue="Python.ex059 ler dois valores e escolher no menu" />
-        <item itemvalue="Python.ex058 tente adivinhar o número" />
         <item itemvalue="Python.ex057 masculino ou feminino" />
-        <item itemvalue="Python.Aula 14 Estrutura de Reoetição While" />
+        <item itemvalue="Python.ex065 ler n números, média, maior e menor" />
+        <item itemvalue="Python.ex064 ler n números qtd e soma" />
+        <item itemvalue="Python.ex063 sequencia de fibonacci" />
+        <item itemvalue="Python.ex062 preção aritmetica 2.0" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658336144570</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="atualização curso python">
+      <created>1658380541873</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658380541873</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

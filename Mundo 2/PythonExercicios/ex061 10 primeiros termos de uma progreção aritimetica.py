@@ -1,6 +1,12 @@
 # Progressão aritmética
 
-primeiro = float(input('Qual o primeiro termo? '))
-razao = float(input('Qual a razão da PA? '))
+primeiro = int(input('Qual o primeiro termo? '))
+razao = int(input('Qual a razão da PA? '))
 
-while
+decimo = primeiro + (10 - 1) * razao
+
+while primeiro < decimo + razao:
+    print(primeiro, end=' -> ')
+    primeiro += razao
+
+print('Fim')

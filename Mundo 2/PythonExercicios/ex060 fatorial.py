@@ -4,7 +4,16 @@ fatorial = 1
 
 n = int(input('Qual número você quer fazer o fatorial: '))
 
+''' com for
 for c in range(n, 1, -1):
     fatorial = fatorial * c
+'''
 
-print('{}!(fatorial) da {}!'.format(n,fatorial))
+# com while
+c = n
+while c > 0:
+    fatorial = fatorial * c
+    c = c - 1
+
+print('{}!(fatorial) da {}!'.format(n, fatorial))
+
