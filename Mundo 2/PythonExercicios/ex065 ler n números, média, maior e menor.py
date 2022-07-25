@@ -13,13 +13,15 @@ while continuar != 'n':
     if cont == 1:
         maior = n
         menor = n
+    else:
+        if n > maior:
+            maior = n
+        if n < menor:
+            menor = n
 
-    if n > maior:
-        maior = n
-    if n < menor:
-        menor = n
-
-    continuar = str(input('Continuar [N/S]? ')).lower()
+    continuar = str(input('Continuar [S/N]? ')).lower().strip()
 
 media = soma/cont
 print('Você informou {} números, a média deles foi {:.2f}, o maior foi {} e o menor foi {}!'.format(cont, media, maior, menor))
+
+# Guanabara fez igual

@@ -11,3 +11,5 @@ while n != 999:
         soma += n
 
 print('Foram digitados {} número(s) e a soma dele(s) foi {}!!'.format(cont, soma))
+
+# Guanabara fez igual, mas ele não usou o if no flag ele só colocou -999 no final

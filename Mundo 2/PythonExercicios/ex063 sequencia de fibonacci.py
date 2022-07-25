@@ -1,22 +1,20 @@
 # Ler número inteiro e mostrar n primeiros elementos da sequência de fibonacci
 # ex: 0 -> 1 -> 1 -> 2 -> 3 -> 5 -> 8 -> 13 -> 21...
 
-n1 = 0
-n2 = 1
-
-n = int(input('Escolha o número do Fibonacci: '))
-qtd = int(input('Quantos elementos mostrar? '))
-
-while 
-
-for c in (n, qtd + n):
-    print(n1)
-    print(n2)
-
-    n1 = n1 + n2
-    n2 = n1 + n2
-
-    n += qtd
-
-    print(n)
-    print(qtd)
+print('-' * 30)
+print('Sequência de Fibonacci!')
+print('-' * 30)
+n = int(input('Quantos termos você quer mostrar? '))
+t1 = 0
+t2 = 1
+print('~' * 30)
+print('{} -> {}'.format(t1, t2), end='')
+cont = 3
+while cont <= n:
+    t3 = t1 + t2
+    print(' -> {}'.format(t3), end='')
+    t1 = t2
+    t2 = t3
+    cont += 1
+print(' -> FIM')
+print('~' * 30)
