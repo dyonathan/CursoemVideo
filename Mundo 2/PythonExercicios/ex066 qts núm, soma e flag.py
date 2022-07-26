@@ -11,3 +11,5 @@ while True:
     soma += n
 
 print('Foram digitados {} número(s) e a soma dele(s) foi {}!!'.format(cont, soma))
+
+# Guanabara fez igual
