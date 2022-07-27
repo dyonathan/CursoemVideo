@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cd1f3b60-1020-40c2-8466-4b522ae950ac" name="Changes" comment="atualização curso python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex070 compras.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex070 compras.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex071 caixa eletronico.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 2/PythonExercicios/ex071 caixa eletronico.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -343,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658860091503</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="atualização curso python">
+      <created>1658888361417</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1658888361417</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

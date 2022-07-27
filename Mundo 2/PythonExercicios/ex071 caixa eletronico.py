@@ -36,7 +36,7 @@ if resto != 0:
 print('=' * 30)
 print('Volte sempre ao BANCO CEV! Tenha um bom dia!')
 '''
-# Guanabara Fez
+# Guanabara Fez, genial esse código, nunca ia pensar nisso rs
 
 print('=' * 30)
 print('{:^30}'.format('BANCO CEV'))
