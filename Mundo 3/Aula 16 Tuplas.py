@@ -5,7 +5,7 @@
 # Exemplo dos lanches
 
 # Tuplas ficam entre () parenteses, listas entre [] colchetes e dicionario entre {} chaves
-
+'''
 # Mostra todos os itens da tupla lanche
 lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim') # os parenteses são opcionais na nova versão do python
 print(lanche)
@@ -38,10 +38,37 @@ lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim')
 print(lanche[:-1]) # Mostra até o penúltimo da tupla, hambúrguer, suco e pizza
 
 # TUPLAS SÃO IMUTÁVEIS, ou seja, não da para atribuir valor
-'''
+
 lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim')
 lanche[1] = 'Refrigerante' # Essa linha causa um erro no programa
 print(lanche[1])
+
+
+# "Mostra eu vou comer" e o nome da comida na frente, primeiro hambúrguer, depois suco e assim por diante
+lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim', 'Batata Frita')
+
+# essa é a forma básica de se fazer
+for comida in lanche:
+    print(f'Eu vou comer {comida}')
+
+# Forma avançada
+for cont in range(0, len(lanche)):
+    print(f'Eu vou comer {lanche[cont]}')
+
+# Com contador de posição
+# Usando len(contador)
+for cont in range(0, len(lanche)):
+    print(f'Eu vou comer {lanche[cont]} na posição {cont}')
+
+# Usando enumerate de lanche
+for pos, comida in enumerate(lanche):
+    print(f'Eu vou comer {comida} na posição {pos}')
+
+print('Comi pra caramba!')
 '''
 
 
+lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim', 'Batata Frita')
+
+# Coloca em ordem alfabética os itens da tupla
+print(sorted(lanche))
