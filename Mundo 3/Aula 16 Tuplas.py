@@ -43,7 +43,6 @@ lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim')
 lanche[1] = 'Refrigerante' # Essa linha causa um erro no programa
 print(lanche[1])
 
-
 # "Mostra eu vou comer" e o nome da comida na frente, primeiro hambúrguer, depois suco e assim por diante
 lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim', 'Batata Frita')
 
@@ -65,10 +64,30 @@ for pos, comida in enumerate(lanche):
     print(f'Eu vou comer {comida} na posição {pos}')
 
 print('Comi pra caramba!')
-'''
-
 
 lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim', 'Batata Frita')
 
 # Coloca em ordem alfabética os itens da tupla
 print(sorted(lanche))
+
+# soma de tuplas
+a = (2, 5, 4)
+b = (5, 8, 1, 2)
+c = a + b # Mostra tuplas A depois a B junta
+# 2, 5, 4, 5, 8, 1, 2
+print(c)
+
+print(c.count(5))# Conta quantos 5 tem na tupla c
+print(c.index(8))# Mostra em qual posição está número 8 aqui no 4 porque começa no 0
+print(c.index(2))# Mostra a posição do primeiro número 2 ou sejá 0
+print(c.index(2, 1))# Mostra a posição do primeiro número 2 começando a procurar na posição 1 ou seja 6 porque o primeiro está no 0 e o segundo no 6
+
+# O python permite tuplas com mais de um tipo de dado, int, floor, str, etc.
+pessoa = ('Gustavo', 39, 'M', 99.88)
+print(pessoa)
+'''
+
+pessoa = ('Gustavo', 39, 'M', 99.88)
+del(pessoa) # deleta momentaneamente a tupla pessoa
+del(pessoa[0])# Teoricamente iria excluir somente a posição 0 da tupla, más as tuplas são imutaveis, ou exclui tudo ou nada
+print(pessoa)
