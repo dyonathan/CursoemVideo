@@ -1,6 +1,6 @@
 # Gerar cinco números aleatórios e colocar em uma tupla
 # mostrar a listagem de números, o menor e o maior
-
+'''
 from random import randint
 
 numeros = (randint(0, 10), randint(0, 10), randint(0, 10), randint(0, 10), randint(0, 10))
@@ -21,3 +21,13 @@ for c in range(0, 5):
 print('')
 print(f'O maior valor sorteado foi {maior}')
 print(f'O menor valor sorteado foi {menor}')
+'''
+# Guanabara fez
+from random import randint
+numeros = (randint(0, 10), randint(0, 10), randint(0, 10),
+           randint(0, 10), randint(0, 10))
+print('Os valores sorteados foram: ', end='')
+for n in numeros:
+    print(f'{n} ', end='')
+print(f'\nO maior valor sorteado foi {max(numeros)}')
+print(f'O menor valor sorteado foi {min(numeros)}')

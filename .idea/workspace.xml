@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd1f3b60-1020-40c2-8466-4b522ae950ac" name="Changes" comment="atualização curso python">
-      <change afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex076 produtos e preços.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3/ex077 vogais.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 3/Aula 16 Tuplas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/Aula 16 Tuplas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex072 ler digito mostrar extenso.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex072 ler digito mostrar extenso.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex073 tabela do brasileirão.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex073 tabela do brasileirão.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex074 números aleatórios em uma tupla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex074 números aleatórios em uma tupla.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex075 ler 4 valores e guardar numa tupla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex075 ler 4 valores e guardar numa tupla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex076 produtos e preços.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex076 produtos e preços.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 3/ex077 vogais.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex077 vogais.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dyonathan\PycharmProjects\CursoemVideo\Mundo 3\PythonExercicios" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.ex077 vogais">
-    <configuration name="Aula 16 Tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex073 tabela do brasileirão" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3/PythonExercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3/Aula 16 Tuplas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex073 tabela do brasileirão.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3/PythonExercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3/ex077 vogais.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex077 vogais.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,8 +184,8 @@
         <item itemvalue="Python.ex077 vogais" />
         <item itemvalue="Python.ex076 produtos e preços" />
         <item itemvalue="Python.ex075 ler 4 valores e guardar numa tupla" />
-        <item itemvalue="Python.Aula 16 Tuplas" />
         <item itemvalue="Python.ex074 números aleatórios em uma tupla" />
+        <item itemvalue="Python.ex073 tabela do brasileirão" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659120105313</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="atualização curso python">
+      <created>1659298519782</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1659298519783</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

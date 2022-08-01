@@ -1,9 +1,8 @@
 # Fazer uma tupla com várias palavras (sem acento) e mostrar as vogais das palavras
-
+'''
 palavras = ('aprender', 'programar', 'linguagem', 'python',
             'curso', 'gratis', 'estudar', 'praticar',
             'trabalhar', 'mercado', 'programador', 'futuro')
-
 
 for c in range(0, len(palavras)):
 
@@ -22,3 +21,15 @@ for c in range(0, len(palavras)):
         if 'u' in vogais[d]:
             print('u', end=' ')
     print('')
+ '''
+
+# Guanabara fez
+
+palavras = ('aprender', 'programar', 'linguagem', 'python',
+            'curso', 'gratis', 'estudar', 'praticar',
+            'trabalhar', 'mercado', 'programador', 'futuro')
+for p in palavras:
+    print(f'\nNa palavra {p.upper()} temos ', end='')
+    for letra in p:
+        if letra.lower() in 'aeiou':
+            print(letra, end=' ')

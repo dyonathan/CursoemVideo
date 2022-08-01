@@ -19,6 +19,6 @@ print(f'Times em ordem alfabética: {sorted(brasileirao)}')
 
 
 print('-=' * 15)
-for pos, time in enumerate(brasileirao):
-    if brasileirao[pos] == 'Bragantino':
-        print(f'O Bragantino está na {pos + 1}ª posição!')
+print(f'O Bragantino está na {brasileirao.index("Bragantino") + 1}ª posição!')
+
+# Guanabara fez igual
