@@ -11,6 +11,7 @@ while True:
 
 valores.sort(reverse=True)
 
+print('-=' * 26)
 print(f'Foram lidos {len(valores)} números!')
 print(f'A ordem decrescente foi {valores}')
 if 5 in valores:
