@@ -82,11 +82,14 @@ print(f'Lista B: {b}')
 # Quando imprimi às duas listas o valor da segunda posição mudou nas duas listas,
 # isso porque quando coloca b = a ele não faz uma cópia da lista e sim uma ligação entre às duas
 '''
-
+'''
 a = [2, 3, 4, 7]
 b = a[:] # Fazendo esse fatiamento de string, ele não cria um link e sim uma cópia da string a para b
 b[2] = 8
 print(f'Lista A: {a}')
 print(f'Lista B: {b}')
+'''
+# Enumerate
 
-
+vendedores = ['Marcis', 'Amanda', 'Ale', 'Carol']
+vendas = [15, 20, 10, 30]
