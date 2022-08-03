@@ -17,20 +17,23 @@ for c in range(0, 4):
             break
         elif num <= min(valores):
             valores.insert(0, num)
+            print('Adicionado na posição 0 da lista...')
             break
-        elif num > valores[0] < valores[1]:
+        elif num > valores[0] and num < valores[1]:
             valores.insert(1, num)
+            print('Adicionado na posição 1 da lista...')
             break
-        elif num > valores[1] < valores[2]:
+        elif num > valores[1] and num < valores[2]:
             valores.insert(2, num)
+            print('Adicionado na posição 2 da lista...')
             break
         else:
             valores.insert(3, num)
+            print('Adicionado na posição 3 da lista...')
             break
-# 10 2 15 6 4
-    print(c)
-    print(valores[c])
-    print(valores)
+
+print('-=' * 26)
+print(f'Os valores digitados em ordem foram {valores}')
 
 
 
