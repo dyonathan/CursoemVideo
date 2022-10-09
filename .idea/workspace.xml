@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd1f3b60-1020-40c2-8466-4b522ae950ac" name="Changes" comment="atualização curso python">
-      <change afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex085 impares e pares.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex084 mais pesados e mais leves.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex084 mais pesados e mais leves.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex085 impares e pares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex085 impares e pares.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -460,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665243954175</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="atualização curso python">
+      <created>1665347054811</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1665347054811</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
