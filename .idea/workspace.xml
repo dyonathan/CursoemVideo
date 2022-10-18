@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd1f3b60-1020-40c2-8466-4b522ae950ac" name="Changes" comment="atualização curso python">
-      <change afterPath="$PROJECT_DIR$/Mundo 3/Aula 19 Dicionários.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 3/Aula 17 Listas pt2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/Aula 18 Listas pt2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 3/Aula 19 Dicionários.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/Aula 19 Dicionários.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -523,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665679681278</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="atualização curso python">
+      <created>1666056835933</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1666056835933</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
