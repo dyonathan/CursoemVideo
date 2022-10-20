@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd1f3b60-1020-40c2-8466-4b522ae950ac" name="Changes" comment="atualização curso python">
-      <change afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex090 nome media situação dicionario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex091 maior dado.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex091 maior dado.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex091 maior dado.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,13 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648479006807</updated>
-    </task>
-    <task id="LOCAL-00001" summary="atualização curso python">
-      <created>1657651583257</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1657651583257</updated>
     </task>
     <task id="LOCAL-00002" summary="atualização curso python">
       <created>1657677613509</created>
@@ -537,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666063483726</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="atualização curso python">
+      <created>1666122889036</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1666122889038</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
