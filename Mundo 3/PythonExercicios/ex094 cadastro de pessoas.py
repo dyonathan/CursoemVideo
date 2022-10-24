@@ -11,7 +11,7 @@ teste = 0
 
 while True:
     pessoa['nome'] = str(input('nome: '))
-    pessoa['sexo'] = str(input('sexo: '))
+    pessoa['sexo'] = str(input('sexo: [M/F] '))
     pessoa['idade'] = int(input('Idade: '))
     op = str(input('Quer Continuar? [S/N] '))
     cadastro.append(pessoa.copy())
@@ -27,14 +27,17 @@ print(cadastro)
 print(f'- O grupo tem {len(cadastro)} pessoas.')
 print(f'- A média de idade é de {media} anos.')
 print('- As mulheres cadastradas foram:', end=' ')
-#for n in range(len(cadastro)):
- #   if cadastro[n][pessoa['sexo']] in 'Ff':
-  #      print(cadastro[n][pessoa['nome']])
-
 
 for p in cadastro:
-    if p in 'Ff':
-        for v in pessoa.values():
-            print(pessoa['nome'], end=' ')
+    if p['sexo'] in 'Ff':
+        print(p['nome'], end=' ')
 print()
 
+print(f'- Lista das pessoas que estão acima da média: ')
+
+for p in cadastro:
+    if p['idade'] > media:
+        print()
+        print(f'nome = {p["nome"]}; sexo = {p["sexo"]}; idade = {p["idade"]};')
+
+print('<< ENCERRADO >>')
