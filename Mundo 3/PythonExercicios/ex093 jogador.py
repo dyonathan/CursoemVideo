@@ -2,17 +2,14 @@
 
 jogador = dict()
 gols = list()
-totgol = 0
+
 
 jogador['nome'] = str(input('Nome do jogador: '))
 jogos = int(input(f'Quantas partidas {jogador["nome"]} jogou? '))
 for c in range(1, jogos + 1):
-    jogo = int(input(f'Quantos gols na partida {c}? '))
-    gols.append(jogo)
-    totgol += jogo
-
-jogador['gols'] = gols
-jogador['total'] = totgol
+    gols.append(int(input(f'Quantos gols na partida {c}? ')))
+jogador['gols'] = gols[:]
+jogador['total'] = sum(gols)
 
 print('-=' * 30)
 print(jogador)
@@ -21,6 +18,8 @@ for k, v in jogador.items():
     print(f'O campo {k} tem o valor {v}.')
 print('-=' * 30)
 print(f'O jogador {jogador["nome"]} jogou {jogos} partidas.')
-for c in range(1, jogos + 1):
-    print(f'   => Na partida {c}, fez {gols[c-1]} gols.')
+for i, v in enumerate(jogador['gols']):
+    print(f'   => Na partida {i + 1}, fez {v} gols.')
 print(f'Foi um total de {jogador["total"]} gols.')
+
+#Fez igual
