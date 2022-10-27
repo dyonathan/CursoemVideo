@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd1f3b60-1020-40c2-8466-4b522ae950ac" name="Changes" comment="atualização curso python">
+      <change afterPath="$PROJECT_DIR$/Mundo 3/Aula 20 - Funções pt. 1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex095 jogador 2.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex095 jogador 2.0.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +47,8 @@
       <recent name="C:\Users\Dyonathan\PycharmProjects\CursoemVideo\Mundo 3\PythonExercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex095 jogador 2.0">
-    <configuration name="ex091 maior dado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Aula 20 - Funções pt. 1">
+    <configuration name="Aula 20 - Funções pt. 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3/PythonExercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mundo 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3/PythonExercicios/ex091 maior dado.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo 3/Aula 20 - Funções pt. 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula 20 - Funções pt. 1" />
         <item itemvalue="Python.ex095 jogador 2.0" />
         <item itemvalue="Python.ex094 cadastro de pessoas" />
         <item itemvalue="Python.ex093 jogador" />
         <item itemvalue="Python.ex092 aposentadoria" />
-        <item itemvalue="Python.ex091 maior dado" />
       </list>
     </recent_temporary>
   </component>
@@ -192,13 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648479006807</updated>
-    </task>
-    <task id="LOCAL-00011" summary="atualização curso python">
-      <created>1658336144570</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1658336144570</updated>
     </task>
     <task id="LOCAL-00012" summary="atualização curso python">
       <created>1658380541873</created>
@@ -536,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666837679711</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="atualização curso python">
+      <created>1666842634066</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1666842634066</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
