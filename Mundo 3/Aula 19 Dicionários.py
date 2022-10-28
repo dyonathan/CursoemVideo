@@ -50,10 +50,11 @@ locadora.append(filme3)
 
 print(locadora[0]['ano'])#Mostra ano do campo 0 da locadora 1977
 print(locadora[2]['titulo'])#Mostra titulo do campo 2 da locadora Matrix
+'''
 
+#Aula pratica
 
-#Pratica
-
+'''
 pessoa = {'nome': 'Gustavo', 'sexo': 'M', 'idade': 22}
 #print(f'O {pessoa["nome"]} tem {pessoa["idade"]} anos.')#Mostra 'O Gustavo tem 22 anos.'
 print(pessoa.keys())#Mostra nome, sexo e idade
