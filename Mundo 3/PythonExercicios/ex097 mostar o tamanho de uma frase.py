@@ -11,13 +11,28 @@
 #~~~~~~~~
 #  Casa
 #~~~~~~~~
+'''
+def escreva(msg):
+    print(f'{"~"}' * (len(msg) + 4))
+    print(f'  {msg}')
+    print(f'{"~"}' * (len(msg) + 4))
 
-def separador(msg):
-    print('~' * len(msg))
-    print(msg)
-    print('~' * len(msg))
+
+escreva('Gustavo Guanabara')
+escreva('Curso de Python no YouTube')
+escreva('CeV')
+'''
+#Guanabara fez
 
 
-separador('  Gustavo Guanabara  ')
-separador('  Curso de Python no YouTube  ')
-separador('  CeV  ')
+def escreva(msg):
+    tam = len(msg) + 4
+    print('~' * tam)
+    print(f'  {msg}')
+    print('~' * tam)
+
+
+# Programa principal
+escreva('Gustavo Guanabara')
+escreva('Curso de Python no YouTube')
+escreva('CeV')
