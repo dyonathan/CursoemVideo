@@ -193,13 +193,6 @@
       <option name="presentableId" value="Default" />
       <updated>1648479006807</updated>
     </task>
-    <task id="LOCAL-00026" summary="atualização curso python">
-      <created>1659120105312</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1659120105313</updated>
-    </task>
     <task id="LOCAL-00027" summary="atualização curso python">
       <created>1659298519782</created>
       <option name="number" value="00027" />
@@ -536,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669508494786</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="atualização curso python">
+      <created>1669508640166</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1669508640166</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
